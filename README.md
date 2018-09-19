@@ -21,6 +21,7 @@ _Copied from [mikesprague](https://github.com/mikesprague/udacity-nanodegrees)_
 
 _Nanodegrees from Udacity are around $1,000 -- These are the courses that make up two of their ML nanodegrees_
 
+### Data Analyst Nanodegree
 
 We built this program with expert analysts and scientists at leading technology
 companies to ensure you master the exact skills necessary to build a career in
