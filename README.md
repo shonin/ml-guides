@@ -15,6 +15,8 @@ I can formulate a solid learning plan for myself._
 
 * [Stanford's CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/) - looks free
 
+* [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) - The leading textbook in AI, many resources on this site
+
 ## Udacity Nanodegree Courses - Free
 
 _Copied from [mikesprague](https://github.com/mikesprague/udacity-nanodegrees)_
