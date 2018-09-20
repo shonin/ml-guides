@@ -7,6 +7,8 @@ I can formulate a solid learning plan for myself._
 
 * [Deep Learning Specialization from Andrew Ng](https://www.coursera.org/specializations/deep-learning) - $50/month
 
+* [Stanford's Machine Learning Videos / Coursera from Andrew Ng](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW) - free - unclear if this is the same as above
+
 * [Practical Deep Learning For Coders by Jeremy Howard](http://course.fast.ai/) - looks free
 
 * [A Super Harsh Guide to Machine Learning](https://www.reddit.com/r/MachineLearning/comments/5z8110/d_a_super_harsh_guide_to_machine_learning/) - a reddit post w/ good resources
@@ -19,10 +21,15 @@ I can formulate a solid learning plan for myself._
 
 * [ML Courses](https://hackr.io/tutorials/learn-machine-learning-ml) - resource of resources
 
+* [Harvard's CS109 Data Science](http://cs109.github.io/2015/) - looks free
+
+* [Elite Data Science](https://elitedatascience.com/learn-machine-learning) - free resource of resources
+
 ## Subreddits
 
 * [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 * [r/artificial](https://www.reddit.com/r/artificial/)
+
 
 ## Udacity Nanodegree Courses - Free
 
