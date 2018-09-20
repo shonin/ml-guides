@@ -35,7 +35,7 @@ I can formulate a solid learning plan for myself._
 
 _Copied from [mikesprague](https://github.com/mikesprague/udacity-nanodegrees)_
 
-_Nanodegrees from Udacity are around $1,000 -- These are the courses that make up two of their ML nanodegrees_
+_Nanodegrees from Udacity are around $1,000 -- These are the courses that make up two of their ML nanodegrees. It looks to me as if these were the courses for these specific nanodegrees at a certain point in time, it is likely that they have updated the nanodegrees to offer different courses now. That being said, this appears to be a very solid learning path._
 
 ### Data Analyst Nanodegree
 
@@ -45,7 +45,7 @@ data science.
 
 Learn to clean up messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate critical findings.
 
-1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) - 19 modules
 1. [Intro to Inferential Statistics](https://www.udacity.com/course/intro-to-inferential-statistics--ud201)
 1. [Intro to Data Analysis](https://www.udacity.com/course/intro-to-data-analysis--ud170)
 1. [Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)
@@ -67,9 +67,9 @@ This program will teach you how to become a machine learning engineer,
 and apply predictive models to massive data sets in fields like finance,
 healthcare, education, and more.
 
-1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
-1. [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359)
-1. [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271)
+1. [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827) - 19 modules
+1. [Intro to Data Science](https://www.udacity.com/course/intro-to-data-science--ud359) - 10 modules
+1. [Intro to Artificial Intelligence](https://www.udacity.com/course/intro-to-artificial-intelligence--cs271) - 33 modules
 1. [Reinforcement Learning](https://www.udacity.com/course/reinforcement-learning--ud600)
 1. [Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 1. [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373)
