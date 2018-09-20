@@ -17,6 +17,13 @@ I can formulate a solid learning plan for myself._
 
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) - The leading textbook in AI, many resources on this site
 
+* [ML Courses](https://hackr.io/tutorials/learn-machine-learning-ml) - resource of resources
+
+## Subreddits
+
+* [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
+* [r/artificial](https://www.reddit.com/r/artificial/)
+
 ## Udacity Nanodegree Courses - Free
 
 _Copied from [mikesprague](https://github.com/mikesprague/udacity-nanodegrees)_
