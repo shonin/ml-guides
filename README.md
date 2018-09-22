@@ -3,6 +3,16 @@
 _These are resources that I am gathering for personal reference so that
 I can formulate a solid learning plan for myself._
 
+## Current Learning Plan
+
+_Resources I am currently focusing on, taken from below_
+
+* Udacity's [Intro to Descriptive Statistics](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
+
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn//printings/ESLII_print10.pdf) - Chapters 1-4, 7-8
+
+## Mostly Free Resources that Look Promising
+
 * [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro) - free
 
 * [Deep Learning Specialization from Andrew Ng](https://www.coursera.org/specializations/deep-learning) - $50/month
